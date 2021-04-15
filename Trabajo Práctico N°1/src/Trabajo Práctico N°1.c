@@ -56,6 +56,7 @@ int main()
     i=0;
 
     do
+
     {
         printf("\n1.Ingresar 1er operando ");
         if (retornoPriNumero==1)
