@@ -1,3 +1,10 @@
+/*******************************************************************
+*Programa:Trabajo Practico Nº2
+*Division:1F
+*Fecha:15/05/2020
+*Autor:Julio Cesar Urquiza
+*
+********************************************************************/
 #include "ArrayEmployees.h"
 #include "funciones.h"
 #ifndef OPTIONS_H_INCLUDED
