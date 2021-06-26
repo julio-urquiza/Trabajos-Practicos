@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1622408316 source:c:\users\julio cesar urquiza\desktop\tp 1\tp 1\aritmèticas.c
+	<stdio.h>
+	<stdlib.h>
+	"Aritmèticas.h"
+
+1622408346 c:\users\julio cesar urquiza\desktop\tp 1\tp 1\aritmèticas.h
+
+1622408808 source:c:\users\julio cesar urquiza\desktop\tp 1\tp 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1622407204 c:\users\julio cesar urquiza\desktop\tp 1\tp 1\funciones.h
+
+1622409360 source:c:\users\julio cesar urquiza\desktop\tp 1\tp 1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"Aritmèticas.h"
+

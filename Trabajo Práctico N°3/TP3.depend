@@ -408,3 +408,13 @@
 1624304021 source:c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°3\validaciòn.c
 	"Validaciòn.h"
 
+1624304115 source:c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+	"Controller.h"
+	"Employee.h"
+	<string.h>
+
+1624304021 c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°3\controller.h
+
