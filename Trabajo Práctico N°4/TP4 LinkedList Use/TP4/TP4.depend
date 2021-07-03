@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1625170290 source:c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°4\tp4 linkedlist use\tp4\linkedlist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"LinkedList.h"
+
+1625157471 c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°4\tp4 linkedlist use\tp4\linkedlist.h
+
+1625346161 source:c:\users\julio cesar urquiza\documents\utn\trabajos-practicos\trabajo práctico n°4\tp4 linkedlist use\tp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"LinkedList.h"
+
